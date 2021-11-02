@@ -1,0 +1,5 @@
+Tester skriving til fil
+Tester noen linjer
+Ei linje til
+Ei fjerde linje
+Siste linje
